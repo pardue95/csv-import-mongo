@@ -1,0 +1,22 @@
+{
+  "name": "csv-import-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pardue95/csv-import-mongo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pardue95/csv-import-mongo/issues"
+  },
+  "homepage": "https://github.com/pardue95/csv-import-mongo#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  }
+}
